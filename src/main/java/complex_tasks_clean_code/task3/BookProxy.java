@@ -1,4 +1,4 @@
-package practice_pattern_programming.task15;
+package complex_tasks_clean_code.task3;
 
 // Proxy: загружает содержимое книги только при первом обращении
 public class BookProxy implements BookContent {
